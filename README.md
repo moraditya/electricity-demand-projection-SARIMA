@@ -64,6 +64,7 @@ The EDA step includes data cleaning, handling missing values, and basic visualiz
 
 
 3. **Stationarity Test:** The Augmented Dickey-Fuller test indicates that the time series is non-stationary, and first-order differencing is applied to make it stationary.
+
 ![image](https://github.com/user-attachments/assets/4cc8136c-f28b-4acb-82ed-77bceddab22c)
 
 
